@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc2d30de-2a51-4083-836f-1d984cb10130">
+  <producedTypes>
+    <managerType typeId="7e438b5a-e9ac-43d7-9438-4f425323e729" valueTypeId="ff04b7ea-1f23-4082-86cb-919c7c7de748"/>
+    <valueManagerType typeId="1ed81cce-93f1-42e3-a674-290a9aecbd53" valueTypeId="c1d69d42-c589-4fd0-bcdb-ff13cb4d4cbc"/>
+    <valueKeyType typeId="8f917f55-f562-4b6e-af06-6d44c7baa24e" valueTypeId="0302b8e2-916b-42e8-b357-7ae5069fcf69"/>
+  </producedTypes>
+  <name>НаименованиеОрганизации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Наименование организации</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>80</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0c8abe8c-32e0-419e-a5f9-365871799774">
+  <name>Конфигурация1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация1</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="9b034a49-e6b2-4de1-8a2d-13c7a43d7b70"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="68a24f77-eac1-47c4-9148-371b78932ea2"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="e606ada3-3f07-46fd-956f-d390fc8da62d"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="1e909288-216c-4acb-af37-581a9264b56b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="9ce288db-d9bb-487b-ba3e-fe0a926a6d7e"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="78eb1642-d6a2-42c2-88b8-c60ce05279c1"/>
+  <configurationExtensionCompatibilityMode>8.3.8</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.8</compatibilityMode>
+  <languages uuid="912319ea-f181-4ea0-b923-c0365bd91b96">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <constants>Constant.НаименованиеОрганизации</constants>
+  <constants>Constant.НаименованиеСклада</constants>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+</mdclass:Configuration>
